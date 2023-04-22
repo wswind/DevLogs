@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn170416(v=pandp.10)
